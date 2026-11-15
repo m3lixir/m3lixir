@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about cybersecurity R&D, tech consulting for small businesses, or leveraging digital tools to grow a brand.
 - ⚡ Fun fact: I’m a proud dog parent to Cowboy, my 13-year-old Pembroke Welsh Corgi with a tail. Follow his adventures on Instagram [@cowboydacorgi](https://www.instagram.com/cowboydacorgi/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/melisasavich) or email at melisasavich [AT] gmail [DOT] com.
+
+```
+##############################################################################################################################################################################
+```
